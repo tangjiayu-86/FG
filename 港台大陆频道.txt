@@ -183,7 +183,6 @@ CCTV6电影,http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 CCTV6电影,http://kouki.pro:8888/udp/239.49.8.76:8000
 CCTV6电影,https://iptv.catvod.com/live.php?id=CCTV-6
 CHC家庭电影,http://27.41.245.32:801/hls/905/index.m3u8
-HBO HD,http://156.238.248.80/2099.php?id=362
 PopC电影,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/45.ts
 PopC电影,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
 1905电影网,http://xxwx.yoesun.com/xxw/1905%E7%94%B5%E5%BD%B1%E7%BD%91.php?id=1905
