@@ -198,6 +198,7 @@ TVBS台剧台,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/111122
 壹综合HD,P2p://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
 好消息,http://165.154.226.214:50007/of-litv-ftv16/index.m3u8?proxy=true
 好消息2台,http://165.154.226.214:50007/of-litv-ftv17/index.m3u8?proxy=true
+緯來戏剧HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/426.ts
 緯來综合HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/425.ts
 緯來體育HD,http://iptvpro.pw:35451/live/%E5%8A%A0QQ%E7%BE%A41041749599/11112222/424.ts
 緯來體育HD,rtmp://f13h.mine.nu/sat/tv721
