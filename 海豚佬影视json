@@ -51,7 +51,17 @@
             "filterable": 1,
             "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/暖光影视.js"
         },
-{"key":"360_spider"        ,"name":"🐬360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+        {
+             "key":"橘子",
+             "name":"🐬橘子影视",
+              "type":3,
+              "api":"csp_Qiji",
+              "playerType":2,
+              "searchable":1,
+              "quickSearch":1,
+              "filterable":1,
+              "ext":"7lj763gg402i79425h3l90jgh14i9ijik6h8i75lj8i73l2l4k6g48lhgl2k4j3j2kik7l83gj54h687390196j0lkgg21l1i3552i7ij087ijj9258721g03lll"
+        },
             {"key": "csp_Kugou",
 "name": "🐬酷狗音乐",
 "type": 3,
