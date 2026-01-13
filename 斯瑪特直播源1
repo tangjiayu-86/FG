@@ -1,3 +1,41 @@
+📽电影频道,#genre#
+CCTV-6 電影,http://96.44.160.246:9999/smt.php?id=cctv6
+HBO_HD,http://96.44.160.246:9999/smt.php?id=hbohd_twn
+HBO_HITS,http://96.44.160.246:9999/smt.php?id=hbohits_twn
+HBO Signature Taiwan,http://96.44.160.246:9999/smt.php?id=hbosignature_twn
+Hollywood Movies,http://96.44.160.246:9999/smt.php?id=hollywoodmovies_twn
+AXN Taiwan,http://96.44.160.246:9999/smt.php?id=axn_twn
+CINEMAX,http://96.44.160.246:9999/smt.php?id=cinemax_twn
+Cinemax,http://96.44.160.246:9999/smt.php?id=Cinemax
+大爱2台,http://96.44.160.246:9999/smt.php?id=daai2_twn
+东森电影 ETTV Movie,http://96.44.160.246:9999/smt.php?id=ettvmovie
+东森洋片 ETTV Western,http://96.44.160.246:9999/smt.php?id=ettvwestern
+龙华洋片 Lunghua Western,http://96.44.160.246:9999/smt.php?id=lunghuawestern_twn
+Animax,http://96.44.160.246:9999/smt.php?id=Animax
+龙详时代,http://96.44.160.246:9999/smt.php?id=lungxiangtime_twn
+Movies Now HD,http://96.44.160.246:9999/smt.php?id=moviesnow_raj
+Star Movies HD,http://96.44.160.246:9999/smt.php?id=starmovies_raj
+卫视中文台 Star Movies Chinese,http://96.44.160.246:9999/smt.php?id=weishichinese_twn
+Hits,http://96.44.160.246:9999/smt.php?id=Hits
+Warner TV,http://96.44.160.246:9999/smt.php?id=WarnerTV
+美亚电影,http://96.44.160.246:9999/smt.php?id=meiyamovie_twn
+SCM,http://96.44.160.246:9999/smt.php?id=Weishimovie
+Thrill,http://96.44.160.246:9999/smt.php?id=Thrill
+HBO Family,http://96.44.160.246:9999/smt.php?id=Hbofamily
+Axn HD,http://96.44.160.246:9999/smt.php?id=Axn
+HBO HD,http://96.44.160.246:9999/smt.php?id=Hbo
+HBO Signature,http://96.44.160.246:9999/smt.php?id=Hbosignature
+HBO Hits,http://96.44.160.246:9999/smt.php?id=Hbohitshd
+Dreamworks,http://96.44.160.246:9999/smt.php?id=Dreamworks
+Hits Movie,http://96.44.160.246:9999/smt.php?id=Hitsmovie
+tvN Movie,http://96.44.160.246:9999/smt.php?id=Tvnmovie
+Astrol Kplus,http://96.44.160.246:9999/smt.php?id=Kplus
+One,http://96.44.160.246:9999/smt.php?id=One
+天映頻道Celestial Movies,http://96.44.160.246:9999/smt.php?id=Celestialindo
+Celestial Classic,http://96.44.160.246:9999/smt.php?id=Celestial2
+Rock Actions,http://96.44.160.246:9999/smt.php?id=Rockaction
+Rock Entertainment,http://96.44.160.246:9999/smt.php?id=Rockentertain
+
 📺新闻频道,#genre#
 ABC News,http://96.44.160.246:9999/smt.php?id=abcnews_glo
 iNews 互動新聞台,http://96.44.160.246:9999/smt.php?id=inews_twn
@@ -438,6 +476,19 @@ Vinmeen,http://96.44.160.246:9999/smt.php?id=Vinmeen
 Vellithirai,http://96.44.160.246:9999/smt.php?id=Vellithirai
 Sony Pictures HD,http://96.44.160.246:9999/smt.php?id=sonypix
 
+🇻🇳越南,#genre#
+ANTV,http://96.44.160.246:9999/smt.php?id=vtn_antv
+VTV 1,http://96.44.160.246:9999/smt.php?id=vtn_vtv1
+VTV 3,http://96.44.160.246:9999/smt.php?id=vtn_vtv3
+VTV 4,http://96.44.160.246:9999/smt.php?id=vtn_vtv4
+VTV 6,http://96.44.160.246:9999/smt.php?id=vtn_vtv6
+HTV 7,http://96.44.160.246:9999/smt.php?id=vtn_htv7
+HTV 9,http://96.44.160.246:9999/smt.php?id=vtn_htv9
+THVL HD,http://96.44.160.246:9999/smt.php?id=vtn_thvl
+TBKTV,http://96.44.160.246:9999/smt.php?id=vtn_tbktv
+BTV HD,http://96.44.160.246:9999/smt.php?id=vtn_btvhd
+CTV HD,http://96.44.160.246:9999/smt.php?id=vtn_ctvhd
+
 🧚‍♀儿童频道,#genre#
 Baby TV Eng,http://96.44.160.246:9999/smt.php?id=Ind_babytv
 CBeebies,http://96.44.160.246:9999/smt.php?id=Cbeebies
@@ -495,67 +546,6 @@ CNN,http://96.44.160.246:9999/smt.php?id=Cnn
 CNN backup,http://96.44.160.246:9999/smt.php?id=cnn_twn
 CNA,http://96.44.160.246:9999/smt.php?id=cna
 
-📽电影频道,#genre#
-CCTV-6 電影,http://96.44.160.246:9999/smt.php?id=cctv6
-HBO_HD,http://96.44.160.246:9999/smt.php?id=hbohd_twn
-HBO_HITS,http://96.44.160.246:9999/smt.php?id=hbohits_twn
-HBO Signature Taiwan,http://96.44.160.246:9999/smt.php?id=hbosignature_twn
-Hollywood Movies,http://96.44.160.246:9999/smt.php?id=hollywoodmovies_twn
-AXN Taiwan,http://96.44.160.246:9999/smt.php?id=axn_twn
-CINEMAX,http://96.44.160.246:9999/smt.php?id=cinemax_twn
-Cinemax,http://96.44.160.246:9999/smt.php?id=Cinemax
-大爱2台,http://96.44.160.246:9999/smt.php?id=daai2_twn
-东森电影 ETTV Movie,http://96.44.160.246:9999/smt.php?id=ettvmovie
-东森洋片 ETTV Western,http://96.44.160.246:9999/smt.php?id=ettvwestern
-龙华洋片 Lunghua Western,http://96.44.160.246:9999/smt.php?id=lunghuawestern_twn
-Animax,http://96.44.160.246:9999/smt.php?id=Animax
-龙详时代,http://96.44.160.246:9999/smt.php?id=lungxiangtime_twn
-Movies Now HD,http://96.44.160.246:9999/smt.php?id=moviesnow_raj
-Star Movies HD,http://96.44.160.246:9999/smt.php?id=starmovies_raj
-卫视中文台 Star Movies Chinese,http://96.44.160.246:9999/smt.php?id=weishichinese_twn
-Hits,http://96.44.160.246:9999/smt.php?id=Hits
-Warner TV,http://96.44.160.246:9999/smt.php?id=WarnerTV
-美亚电影,http://96.44.160.246:9999/smt.php?id=meiyamovie_twn
-SCM,http://96.44.160.246:9999/smt.php?id=Weishimovie
-Thrill,http://96.44.160.246:9999/smt.php?id=Thrill
-HBO Family,http://96.44.160.246:9999/smt.php?id=Hbofamily
-Axn HD,http://96.44.160.246:9999/smt.php?id=Axn
-HBO HD,http://96.44.160.246:9999/smt.php?id=Hbo
-HBO Signature,http://96.44.160.246:9999/smt.php?id=Hbosignature
-HBO Hits,http://96.44.160.246:9999/smt.php?id=Hbohitshd
-Dreamworks,http://96.44.160.246:9999/smt.php?id=Dreamworks
-Hits Movie,http://96.44.160.246:9999/smt.php?id=Hitsmovie
-tvN Movie,http://96.44.160.246:9999/smt.php?id=Tvnmovie
-Astrol Kplus,http://96.44.160.246:9999/smt.php?id=Kplus
-One,http://96.44.160.246:9999/smt.php?id=One
-天映頻道Celestial Movies,http://96.44.160.246:9999/smt.php?id=Celestialindo
-Celestial Classic,http://96.44.160.246:9999/smt.php?id=Celestial2
-Rock Actions,http://96.44.160.246:9999/smt.php?id=Rockaction
-Rock Entertainment,http://96.44.160.246:9999/smt.php?id=Rockentertain
-
-📹纪录频道,#genre#
-CI,http://96.44.160.246:9999/smt.php?id=ci_twn
-Asia Travel,http://96.44.160.246:9999/smt.php?id=asiatravel_twn
-亚洲美食,http://96.44.160.246:9999/smt.php?id=afc_twn
-NatGeo HD,http://96.44.160.246:9999/smt.php?id=Natgeo
-Fashion TV,http://96.44.160.246:9999/smt.php?id=fashiontv_twn
-History,http://96.44.160.246:9999/smt.php?id=History
-BBC Earth HD,http://96.44.160.246:9999/smt.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://96.44.160.246:9999/smt.php?id=bbclifestyle_twn
-亚洲旅游 TLC Asia,http://96.44.160.246:9999/smt.php?id=tlc_twn
-MTV Live,http://96.44.160.246:9999/smt.php?id=mtvhd_twn
-NatGeo_Wild HD,http://96.44.160.246:9999/smt.php?id=Natgeowild
-Animal_Planet,http://96.44.160.246:9999/smt.php?id=AnimalPlanet
-HGTV,http://96.44.160.246:9999/smt.php?id=HGTV
-TLC,http://96.44.160.246:9999/smt.php?id=Tlc
-Foodnetwork Hd,http://96.44.160.246:9999/smt.php?id=Foodnetwork
-Asia Food Network,http://96.44.160.246:9999/smt.php?id=Afc
-Animal Planet (Eng),http://96.44.160.246:9999/smt.php?id=AnimalPlanet
-NatGeo Wild HD,http://96.44.160.246:9999/smt.php?id=Natgeowild
-Discovery Asia,http://96.44.160.246:9999/smt.php?id=Discoveryasia
-Dmax,http://96.44.160.246:9999/smt.php?id=Dmax
-探索频道,http://96.44.160.246:9999/smt.php?id=discoverych_twn
-
 🇬🇧英国,#genre#
 BBC 1,http://96.44.160.246:9999/smt.php?id=bbc1_antik
 BBC 2,http://96.44.160.246:9999/smt.php?id=bbc2_antik
@@ -596,15 +586,25 @@ CNBC,http://96.44.160.246:9999/smt.php?id=Cnbc
 France 24,http://96.44.160.246:9999/smt.php?id=france24_twn
 Skynews,http://96.44.160.246:9999/smt.php?id=skynews_twn
 
-🇻🇳越南,#genre#
-ANTV,http://96.44.160.246:9999/smt.php?id=vtn_antv
-VTV 1,http://96.44.160.246:9999/smt.php?id=vtn_vtv1
-VTV 3,http://96.44.160.246:9999/smt.php?id=vtn_vtv3
-VTV 4,http://96.44.160.246:9999/smt.php?id=vtn_vtv4
-VTV 6,http://96.44.160.246:9999/smt.php?id=vtn_vtv6
-HTV 7,http://96.44.160.246:9999/smt.php?id=vtn_htv7
-HTV 9,http://96.44.160.246:9999/smt.php?id=vtn_htv9
-THVL HD,http://96.44.160.246:9999/smt.php?id=vtn_thvl
-TBKTV,http://96.44.160.246:9999/smt.php?id=vtn_tbktv
-BTV HD,http://96.44.160.246:9999/smt.php?id=vtn_btvhd
-CTV HD,http://96.44.160.246:9999/smt.php?id=vtn_ctvhd
+📹纪录频道,#genre#
+CI,http://96.44.160.246:9999/smt.php?id=ci_twn
+Asia Travel,http://96.44.160.246:9999/smt.php?id=asiatravel_twn
+亚洲美食,http://96.44.160.246:9999/smt.php?id=afc_twn
+NatGeo HD,http://96.44.160.246:9999/smt.php?id=Natgeo
+Fashion TV,http://96.44.160.246:9999/smt.php?id=fashiontv_twn
+History,http://96.44.160.246:9999/smt.php?id=History
+BBC Earth HD,http://96.44.160.246:9999/smt.php?id=bbcearth_twn
+BBC Earth Lifestyle,http://96.44.160.246:9999/smt.php?id=bbclifestyle_twn
+亚洲旅游 TLC Asia,http://96.44.160.246:9999/smt.php?id=tlc_twn
+MTV Live,http://96.44.160.246:9999/smt.php?id=mtvhd_twn
+NatGeo_Wild HD,http://96.44.160.246:9999/smt.php?id=Natgeowild
+Animal_Planet,http://96.44.160.246:9999/smt.php?id=AnimalPlanet
+HGTV,http://96.44.160.246:9999/smt.php?id=HGTV
+TLC,http://96.44.160.246:9999/smt.php?id=Tlc
+Foodnetwork Hd,http://96.44.160.246:9999/smt.php?id=Foodnetwork
+Asia Food Network,http://96.44.160.246:9999/smt.php?id=Afc
+Animal Planet (Eng),http://96.44.160.246:9999/smt.php?id=AnimalPlanet
+NatGeo Wild HD,http://96.44.160.246:9999/smt.php?id=Natgeowild
+Discovery Asia,http://96.44.160.246:9999/smt.php?id=Discoveryasia
+Dmax,http://96.44.160.246:9999/smt.php?id=Dmax
+探索频道,http://96.44.160.246:9999/smt.php?id=discoverych_twn
