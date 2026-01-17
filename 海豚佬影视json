@@ -296,6 +296,15 @@
             "filterable": 0
         },
         {
+            "key": "桃花资源|AV",
+            "name": "🐬桃花资源｜🔞",
+            "type": 1,
+            "api": "https://thzy1.me/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
+        {
             "key": "乐播资源|AV",
             "name": "🐬乐播资源｜🔞",
             "type": 1,
