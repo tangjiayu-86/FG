@@ -212,6 +212,12 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 1
+		 },
+         {
+			"api": "https://learnpython.ggff.net/XHYSPY",
+			"key": "XHYSPY",
+			"name": "🐬XHYSPY｜追剧",
+			"type": 4
 		},
 {"name":"🐬豪堪短剧🎦｜短剧","key":"豪堪短剧","type":3,"api":"csp_HHkkAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"🐬盒马短剧📺｜短剧","key":"盒马短剧","type":3,"api":"csp_HemaAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/main/custom_spider.jar"},
