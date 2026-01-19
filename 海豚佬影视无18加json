@@ -64,12 +64,6 @@
 			"type": 4,
 			"api": "http://zhangqun1818.serv00.net/aigua1.php"
 		},
-        {
-			"api": "https://newtv.ggff.net/oule?token=P69Phb_y",
-			"key": "欧乐影院",
-			"name": "🐬欧乐影院｜追剧",
-			"type": 4
-		},  
         {    
             "key": "热播影视",
             "name": "🐬热播影视｜追剧",
@@ -93,16 +87,6 @@
             "playerType":1,
             "changeable":1,
             "jar":"https://ghproxy.net/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/fuma.jar;md5;542ED744B07121213F70323B9BCBECCA"
-         },
-         {
-            "key": "hipy_js_暖光影视",
-            "name": "🐬暖光影视｜追剧",
-            "type": 3,
-            "api": "https://gitee.com/abiubiud/xxs/raw/main/lib/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/abiubiud/xxs/raw/main/dr2/暖光影视.js"
          },
          {
             "key": "API_如意",
