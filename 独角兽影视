@@ -611,18 +611,24 @@
             "ua": "okhttp/5.3.2",
             "url": "https://tv.anboxtv.online/tv"
         },
+         {
+            "name": "🦄地方直播",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
+        }, 
+        {
+            "name": "🦄冰茶",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=bingcha1130&huikan=en&json=true"
+        }, 
         {
             "name": "🦄jackTV(梯子)",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
         },
-         {
-            "name": "🦄冰茶",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=bingcha1130&huikan=en&json=true"
-        }, 
         {
             "name": "🦄litv直播(梯子)",
             "type": 0,
