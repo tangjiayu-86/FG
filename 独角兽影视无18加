@@ -592,6 +592,12 @@
             "url": "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/台湾TV"
         }, 
         {
+			"name": "🦄YouTube直播(梯子)",
+			"type": 0,
+            "ua": "okhttp",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtube.m3u"
+		},
+        {
             "name": "🦄港台大陆频道无18",
             "type": 0,
             "ua": "okhttp",
