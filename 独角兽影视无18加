@@ -1,3 +1,4 @@
+
 {
     "spider": "./tvbox.jar",
     "logo": "https://media.istockphoto.com/id/1364557568/zh/%E5%90%91%E9%87%8F/cartoon-beautiful-unicorn-head-is-on-the-cloud-with-beautiful-flowers.jpg?s=612x612&w=0&k=20&c=ropRezqZLaDSd9j2Ijl0uq75WYY631JePgie0HKN9UU=",
@@ -289,6 +290,12 @@
 			"api": "https://py.doube.eu.org/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89"
 		},
         {
+            "key": "cat_嗷呜动漫",
+            "name": "🦄嗷呜｜动漫",
+            "type": 3,
+            "api": "./js/cat_嗷呜动漫.js"
+        },
+       {
 			"key": "market",
 			"name": "🦄OK影视应用更新",
 			"type": 3,
