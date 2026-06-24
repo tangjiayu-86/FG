@@ -23,13 +23,29 @@
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002144-0e40887294.js"
         },
-         {"key":"MG",
+        {
+           "key": "hajim-腾讯备",
+           "name": "🐬腾讯4K",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+           "searchable": 1,
+           "changeable": 1,
+           "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
+        },
+		{"key":"MG",
         "name":"🐬芒果TV",
         "type":3,
         "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
         "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002108-a4795930ec.js"
         },
-        {
+        {  
+		  "key": "茫茫",
+          "name": "🐬芒果4K",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+          "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+        },
+		{
       "key": "非凡",
       "name": "🐬非凡影视",
       "type": 1,
@@ -67,14 +83,6 @@
         "港台动漫",
         "海外动漫"
       ]
-    },
-     {
-      "key": "iKun资源",
-      "name": "🐬iKun资源(有三级片)",
-      "type": 0,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1
     },
     {
       "key": "闪电影视",
@@ -300,113 +308,71 @@
         ],
     "parses": [ 
         {
+            "name": "盘古",
+            "type": 0,
+            "url": "https://www.playm3u8.cn/jiexi.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+		{
             "name": "淘片解析",
             "type": 0,
-            "url": "https://jx.yparse.com/index.php?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
-        }, 
-       {
+            "url": "https://jx.yparse.com/index.php?url="
+        },
+		{
             "name": "虾米解析",
             "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
+            "url": "https://jx.xmflv.com/?url="
         },
-           {
-            "name": "解析0",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "mgtv",
-                    "芒果",
-                    "imgo",
-                    "letv",
-                    "乐视",
-                    "pptv",
-                    "PPTV",
-                    "sohu",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/5.3.2"
-                }
-            }
-        },
-      {
+     {
+      "name": "解析1",
+      "type": 0,
+      "url": "https://huayong.net/999/?v="
+    },
+    {
+      "name": "解析2",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "解析3",
+      "type": 0,
+      "url": "https://t2.qlplayer.cyou/player/analysis.php?v="
+    },
+		
+	{
+      "name": "解析4",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "解析5",
+      "type": 0,
+      "url": "https://nm.xxxc137.top/static/player/artplayer.html?url="
+    },{
       "name": "极速",
       "type": 0,
-      "url": "https://jiexi.789jiexi.net:4433/?url=",
-      "ext": {
-      "header": {
-      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-    }
-  }
-},
-{"name":"云解析",
-        "type":0,
-        "url":"https://yparse.ik9.cc/index.php?url=",
-        "ext":{
-        "header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
-                }
-            }
-        },  
-       {
-			"name": "公益解析",
-			"type": "1",
-			"url": "https://rizzon.in/wp-content/json.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-        {
+      "url": "https://jiexi.789jiexi.net:4433/?url="
+      },
+         {
+            "name": "17解析",
+            "type": 0,
+            "url": "https://www.1717yun.com/jx/ty.php?url="
+        },
+		{
             "name": "冰豆",
             "type": 0,
-            "url": "https://bd.jx.cn/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-                }
-            }
+            "url": "https://bd.jx.cn/?url="
         },
-       {
+        {"name":"-爱酷-","type":0,"url":"https://jx.zhanlangbu.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}},
+        {"name":"-云解析-","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+        {"name":"-777-","type":0,"url":"https://jx.jsonplayer.com/player/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+        {"name":"-剖云-","type":0,"url":"https://www.kkvip2022.com/vip/jiexi1/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+        {"name":"-全看-","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+		{
       "group": "软解码",
       "options": [
         {
@@ -581,8 +547,8 @@
             "name": "🐬综合直播",
             "type": 0,
             "playerType": 2,
-            "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
-            "ua": "okhttp"
+            "ua": "okhttp",
+			 "url": "https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"
          },
          {
             "name": "🐬电视家",
@@ -594,22 +560,82 @@
          {
             "name": "🐬地方直播",
             "type": 0,
-            "ua": "okhttp/5.3.2",
+            "ua": "okhttp",
             "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
         }, 
          {
             "name": "🐬地方直播2",
             "type": 0,
-            "ua": "okhttp/5.3.2",
+            "ua": "okhttp",
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
-        }, 
-       {
-            "name": "🐬多源直播",
+        },
+	    {
+            "name": "🐬海燕直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
-            "url": "http://tv.anbox.ip-ddns.com/live"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/haiyan.txt"
+        },  
+		{
+            "name": "🐬薄荷直播",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/bhmb.m3u"
+        },  
+        {
+            "name": "🐬湘西直播",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/xiangxi.txt"
+        }, 
+		{
+            "name": "🐬全球直播",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E5%85%A8%E7%90%83%E7%9B%B4%E6%92%AD.m3u"
+        },
+		{
+            "name": "🐬咪咕直播",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "http://www.52top.com.cn:678/downloads/migu.txt"
+        },
+		{
+            "name": "🐬iptv直播",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
+        },
+        {
+            "name": "🐬小新TV",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://d.kstore.dev/download/9565/小新TV.txt"
+        },
+	    {
+            "name": "🐬北美长城源",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ha.msbot.dpdns.org/wall.php"
         }, 
         {
+            "name": "🐬港台",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt"
+        },
+	    {
+            "name": "🐬台湾台",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://epg.pw/test_channels_taiwan.m3u"
+        },
+	    {
+            "name": "🐬体育台",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://82.156.243.185:33389/fwc.m3u"
+        },
+	    {
             "name": "🐬裤佬TV",
             "type": 0,
             "ua": "okhttp",
@@ -661,15 +687,21 @@
             "name": "🐬中港台直播源",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://t.freetv.fun/m3u/playlist.txt"
+            "url": "https://t.freetv.fun/m3u/playlist_all.txt"
         },
         {
             "name": "🐬4GTV(梯子台湾节点)720p",
             "type": 0,
             "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/4gtv.txt"
         },
         {
+            "name": "🐬4GTV怡淳酒店(梯子台湾节点)720p",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "http://xtvantsc.xyz/4gtv.txt"
+        },
+	    {
             "name": "🐬4GTV(梯子任何节点)1080p",
             "type": 0,
             "ua": "okhttp",
@@ -680,18 +712,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-        },
-        {
-            "name": "🐬新港台频道",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://iptv.707626.xyz/sub/K5hMyUOy52A1rzUvV6s5pbADasExbi7x/playlist.m3u"
-        },
-        {
-            "name": "🐬台湾频道(梯子台湾节点)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://epg.pw/test_channels_taiwan.m3u"
         }
     ]
 }
