@@ -63,7 +63,7 @@
         "name":"🐬枫叶影院(关梯子使用)",
         "type":3,
         "api":"csp_fy",
-        "homePage":"https://fgblh.github.io/uhuj.github.io/枫叶影视.html"
+        "homePage":"https://fgblh.github.io/uhuj.github.io/枫叶🍁.html"
       },
 		 {
         "key":"6v",
@@ -2198,6 +2198,11 @@
       "name": "解析6",
       "type": 0,
       "url": "https://www.yemu.xyz/?url="
+        },
+		{
+      "name": "解析7",
+      "type": 0,
+      "url": "http://rihou.cc:88/demo.php?url="
         },
         {
             "name": "冰豆",
