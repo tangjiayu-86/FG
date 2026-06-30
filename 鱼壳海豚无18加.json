@@ -58,6 +58,12 @@
          "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
          "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
         },
+		{
+          "key": "MGtv",
+          "name": "🐬芒果TV.py",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/芒果TV.py"
+        },
         {
             "key": "leo_danmaku",
             "name": "LEO | 弹幕",
@@ -93,6 +99,18 @@
 			"name": "🐬熊猫直播",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/熊猫直播.py"
+		},
+		{
+			"key": "rb",
+			"name": "🐬热播APP.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/热播APP.py"
+		},
+		{
+			"key": "JP",
+			"name": "🐬金牌APP.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/金牌APP.py"
 		},
 		{
 			"key": "fY",
