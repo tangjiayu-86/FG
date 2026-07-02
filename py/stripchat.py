@@ -24,7 +24,7 @@ class Spider(Spider):
         self.headers = {
             'Origin': origin,
             'Referer': f"{origin}/",
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0'
+            'User-Agent':"Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
         }
         self.stripchat_key = self.decode_key_compact()
         # 缓存字典
@@ -178,7 +178,7 @@ class Spider(Spider):
                 proxy_url = f"{self.getProxyUrl()}&url={quote(full_url)}"
                 # 将画质和URL添加到列表中
                 url.append(qn)
-                url.append(proxy_url)
+                url.append()
         result = {}
         result["url"] = url
         result["parse"] = '0'
