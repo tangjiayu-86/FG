@@ -46,17 +46,17 @@
          "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
         },
 		{
-      "key": "MGtv",
-      "name": "🐬芒果TV.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/芒果TV.py"
+           "key": "MGtv",
+           "name": "🐬芒果TV.py",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/芒果TV.py"
        },
 		{
-      "key": "ppx",
-      "name": "🐬皮皮虾.py",
-      "type": 3,
-      "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/皮皮虾.py",
-      "ext": "http://43.248.117.123:4680"
+           "key": "ppx",
+           "name": "🐬皮皮虾.py",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/皮皮虾.py",
+           "ext": "http://43.248.117.123:4680"
        },
 		{
 			"key": "fY",
@@ -111,6 +111,18 @@
 			"name": "🐬毒舌影视.py(关梯)",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/毒舌影视.py"
+		},
+		{
+           "key": "qw",
+           "name": "🐬七味.py(关梯)",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/七味.py"
+        },
+		{
+			"key": "cjjh",
+			"name": "🐬采集聚合.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/采集聚合.py"
 		},
 		{
 			"key": "kf",
@@ -387,10 +399,10 @@
          ]
          }, 
         {
-			"key": "XFDM",
-			"name": "🐬稀饭动漫.py",
+			"key": "MiFun",
+			"name": "🐬MiFun动漫.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/稀饭动漫.py"
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/MiFun动漫.py"
 		},
         {
       "key": "cj_360资源",
