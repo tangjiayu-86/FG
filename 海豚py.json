@@ -4,50 +4,9 @@
     "wallpaper":"http://tool.teyonds.com/api",
     "warningText": "注意:如果别人倒卖海豚影视接口收费的都是骗子,没有qq群微信群，只有tg官方交流群 TG：@hshsjk",
     "sites": [
-        {
-         "key":"AQY",
-        "name":"🐬爱奇艺 海豚影视完全免费，如有收费的都是骗子",
-        "type":3,
-        "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
-        "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002031-6064033c16.js"
-        },
-         {"key":"YK",
-        "name":"🐬优酷视频 海豚影视交流群 TG：@hshsjk9",
-        "type":3,
-        "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
-        "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002200-507c3e8aae.js"
-        },
-        {"key":"TX",
-        "name":"🐬腾讯视频",
-        "type":3,
-        "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
-        "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002144-0e40887294.js"
-        },
-        {
-           "key": "hajim-腾讯备",
-           "name": "🐬腾讯4K",
-           "type": 3,
-           "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-           "searchable": 1,
-           "changeable": 1,
-           "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
-        },
-		{"key":"MG",
-        "name":"🐬芒果TV",
-        "type":3,
-        "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
-        "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002108-a4795930ec.js"
-        },
-		{
-		"key": "茫茫",
-        "name": "🐬芒果4K",
-        "type": 3,
-         "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-         "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
-        },
 		{
           "key": "MGtv",
-          "name": "🐬芒果TV.py",
+          "name": "🐬芒果TV.py 海豚影视交流群 TG：@hshsjk9",
           "type": 3,
           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/芒果TV.py"
         },
@@ -126,7 +85,7 @@
 		},
 		{
 			"key": "sm",
-			"name": "🐬熊猫直播",
+			"name": "🐬韩国熊猫直播.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/熊猫直播.py"
 		},
@@ -142,260 +101,12 @@
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/聚合直播.py"
 		},
-	{
-      "key": "非凡",
-      "name": "🐬非凡影视",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产动漫",
-        "日韩动漫",
-        "国产剧",
-        "韩国剧",
-        "日本剧",
-        "电影片",
-        "连续剧",
-        "综艺片",
-        "动漫片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "香港剧",
-        "欧美剧",
-        "记录片",
-        "台湾剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },
-	{
-      "key": "闪电影视",
-      "name": "🐬闪电影视｜追剧",
-      "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "短剧",
-        "韩国剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "奇幻片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "悬疑片",
-        "惊悚片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "动作片",
-        "日本剧",
-        "泰剧",
-        "国产综艺",
-        "港台综艺",
-        "欧美综艺",
-        "日韩综艺",
-        "国产动漫",
-        "港台动漫",
-        "日韩动漫"
-      ]
-    },
-      {
-            "key": "牛牛影视",
-            "name": "🐬牛牛影视｜追剧",
-            "type": 0,
-            "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "动画片",
-                "纪录片",
-                "预告片",
-                "邵氏电影",
-                "4K电影",
-                "国产剧",
-                "欧美剧",
-                "韩剧",
-                "日剧",
-                "港剧",
-                "台剧",
-                "泰剧",
-                "海外剧",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "影视解说",
-                "爽文短剧",
-                "有声动漫",
-                "女频恋爱",
-                "反转爽剧",
-                "古装仙侠",
-                "年代穿越",
-                "脑洞悬疑",
-                "现代都市",
-                "演唱会",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧美综艺",
-                "篮球",
-                "足球"
-            ]
-        }, 
-          {
-      "key": "雲飛影视",
-      "name": "🐬雲飛影视｜追剧",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playurl": "json:https://lziplayer.com/?url=",
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "小湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "加片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ]
-    },
-{"key": "火狐","name": "🐬火狐影视🦊｜追剧","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [  "内地剧",  "动作片",  "科幻片",  "战争片",  "喜剧片",  "爱情片",  "恐怖片",  "犯罪片",  "剧情片",  "冒险片",  "记录片",  "韩剧",  "香港剧",  "台湾剧",  "欧美剧",  "日剧",  "马泰剧",  "体育赛事",  "综艺",  "动画片",  "中国动漫",  "日本动漫",  "欧美动漫"]
-},
-   {
-      "key": "量子2k",
-      "name": "🐬量子影视｜追剧",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "playurl": "json:https://lziplayer.com/?url=",
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ]
-      },
-        {
-            "key": "API_如意",
-            "name": "🐬如意影视｜追剧",
-            "type": 1,
-            "api": "https://cj.rycjapi.com/api.php/provide/vod",
-            "ext": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-        "动作片",
-        "灾难片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "恐怖片",
-        "预告片",
-        "剧情片",
-        "记录片",
-        "动画电影",
-        "电影解说",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "短剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "足球",
-        "篮球",
-        "网球",
-        "斯诺克",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫"
-         ]
-         }, 
 		{
 			"key": "MiFun",
 			"name": "🐬MiFun动漫.py",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/MiFun动漫.py"
 		},
-        {
-      "key": "cj_360资源",
-      "name": "🐬360丨短剧",
-      "type": 1,
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://360zy.com/api.php/provide/vod",
-      "categories": [
-        "爽文短剧",
-        "现代都市",
-        "脑洞悬疑",
-        "年代穿越",
-        "古装仙侠",
-        "反转爽剧",
-        "女频恋爱",
-        "成长逆袭"
-      ]
-    },
 		{
 			"key": "smdj",
 			"name": "🐬星芽短剧.py",
@@ -421,16 +132,179 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/短剧聚合.py"
 		},
 		{
-            "key": "捡的音乐",
-            "name": "🐬爱听音乐",
-            "type": 3,
-            "api": "csp_Music1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/jar_js/Music1.json",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/jar_js/so.jar",
-            "filterable": 1
-        }
+			"key": "shjb",
+			"name": "🐬色播聚合.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/色播聚合.py"
+		},
+		{
+			"key": "stripchat",
+			"name": "🐬stripchat直播.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/stripchat.py"
+		},
+		{
+			"key": "Cam4",
+			"name": "🐬Cam4直播.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/Cam4直播.py"
+		},
+		{
+			"key": "Pandalive",
+			"name": "🐬韩国Pandalive直播.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/Pandalive直播.py"
+		},
+		{
+			"key": "007qg",
+			"name": "🐬007吃瓜.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/007吃瓜.py"
+		},
+		{
+			"key": "51qg",
+			"name": "🐬51吃瓜.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/51吃瓜.py"
+		},
+		{
+			"key": "51dc",
+			"name": "🐬51大赛.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/51大赛.py"
+		},
+		{
+			"key": "51bl",
+			"name": "🐬51爆料.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/51爆料.py"
+		},
+		{
+			"key": "51vm",
+			"name": "🐬51视频.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/51视频.py"
+		},
+		{
+			"key": "818hlw",
+			"name": "🐬818黑料网.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/818黑料网.py"
+		},
+		{
+			"key": "91bl",
+			"name": "🐬91爆料.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/91爆料.py"
+		},
+		{
+			"key": "91qgzx",
+			"name": "🐬91吃瓜中心.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/91吃瓜中心.py"
+		},
+		{
+			"key": "mrds",
+			"name": "🐬每日大赛.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/每日大赛.py"
+		},
+		{
+			"key": "mrdld",
+			"name": "🐬每日大乱斗.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/每日大乱斗.py"
+		},
+		{
+			"key": "jrkl",
+			"name": "🐬今日看料.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/今日看料.py"
+		},
+		{
+			"key": "hl",
+			"name": "🐬黑料不打烊.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/黑料不打烊.py"
+		},
+		{
+			"key": "dj",
+			"name": "🐬妲己高清视频.py(关梯)｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/妲己.py"
+		},
+		{
+			"key": "xmvm",
+			"name": "🐬熊猫视频.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/熊猫视频.py"
+		},
+		{
+			"key": "shvm",
+			"name": "🐬四虎视频.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/四虎视频.py"
+		},
+		{
+			"key": "scpd",
+			"name": "🐬香肠派对.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/香肠派对.py"
+		},
+		{
+			"key": "llav",
+			"name": "🐬萝莉AV.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/萝莉AV.py"
+		},
+		{
+			"key": "123av",
+			"name": "🐬123AV.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/123AV.py"
+		},
+		{
+			"key": "Xvideos",
+			"name": "🐬Xvideos.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/Xvideos.py"
+		},
+		{
+			"key": "fullhd",
+			"name": "🐬FullHD.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/FullHD.py"
+		},
+		{
+			"key": "JAV36",
+			"name": "🐬JAV36.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/JAV36.py"
+		},
+		{
+			"key": "ggsp",
+			"name": "🐬久久視頻.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/久久視頻.py"
+		},
+		{
+			"key": "TOPTV",
+			"name": "🐬TOPTV.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/TOPTV.py"
+		},
+		{
+			"key": "VHUB",
+			"name": "🐬VHUB.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/VHUB[成人].py"
+		},
+		{
+			"key": "MD",
+			"name": "🐬麻豆免费在线播放.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/麻豆免费在线播放.py"
+		}
     ],
     "parses": [ 
 		{

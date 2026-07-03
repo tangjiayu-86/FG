@@ -441,17 +441,11 @@
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/红果短剧.py"
 		},
-         {
-			"key": "网易云音乐",
-			"name": "🐬网易云[音乐]",
-			"type": 3,
-			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐.py"
-		},
 		{
-			"key": "网易云音乐1",
-			"name": "🐬网易云1[音乐]",
+			"key": "djjh",
+			"name": "🐬短剧聚合.py",
 			"type": 3,
-			"api": "https://xn--fjq53n.xyz/Ting/yinyue/网易云音乐1.py"
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/短剧聚合.py"
 		},
 		{
             "key": "捡的音乐",
@@ -513,6 +507,18 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/51爆料.py"
 		},
 		{
+			"key": "51vm",
+			"name": "🐬51视频.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/51视频.py"
+		},
+		{
+			"key": "818hlw",
+			"name": "🐬818黑料网.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/818黑料网.py"
+		},
+		{
 			"key": "91bl",
 			"name": "🐬91爆料.py｜🔞",
 			"type": 3,
@@ -525,10 +531,46 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/91吃瓜中心.py"
 		},
 		{
-			"key": "xmzb",
+			"key": "mrds",
+			"name": "🐬每日大赛.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/每日大赛.py"
+		},
+		{
+			"key": "mrdld",
+			"name": "🐬每日大乱斗.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/每日大乱斗.py"
+		},
+		{
+			"key": "jrkl",
+			"name": "🐬今日看料.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/今日看料.py"
+		},
+		{
+			"key": "hl",
+			"name": "🐬黑料不打烊.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/黑料不打烊.py"
+		},
+		{
+			"key": "dj",
+			"name": "🐬妲己高清视频.py(关梯)｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/妲己.py"
+		},
+		{
+			"key": "xmvm",
 			"name": "🐬熊猫视频.py｜🔞",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/熊猫视频.py"
+		},
+		{
+			"key": "shvm",
+			"name": "🐬四虎视频.py｜🔞",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/四虎视频.py"
 		},
 		{
 			"key": "scpd",
