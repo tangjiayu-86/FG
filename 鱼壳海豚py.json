@@ -18,25 +18,25 @@
         },
 		{
 			"key": "kf",
-			"name": "🐬咖啡体育直播.py",
+			"name": "🐬咖啡体育直播.py[直播]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/咖啡直播.py"
 		},
 		{
 			"key": "sm",
-			"name": "🐬韩国熊猫直播",
+			"name": "🐬韩国熊猫直播.py[直播]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/熊猫直播.py"
 		},
 		{
 			"key": "blzb",
-			"name": "🐬哔哩直播.py",
+			"name": "🐬哔哩直播.py[直播]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/哔哩直播.py"
 		},
 		{
 			"key": "jhzb",
-			"name": "🐬聚合直播.py",
+			"name": "🐬聚合直播.py[直播]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/聚合直播.py"
 		},
@@ -115,7 +115,7 @@
 		}, 
 		{
 			"key": "MiFun",
-			"name": "🐬MiFun动漫.py",
+			"name": "🐬MiFun动漫.py[动漫]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/MiFun动漫.py"
 		},
@@ -131,7 +131,6 @@
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/河马剧场.py"
 		},
-		
 		{
 			"key": "hgdj",
 			"name": "🐬红果短剧.py[短剧]",
