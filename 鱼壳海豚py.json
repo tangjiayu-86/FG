@@ -17,6 +17,12 @@
           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/芒果TV.py"
         },
 		{
+          "key": "YK",
+          "name": "🐬优酷视频.py[追剧]",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/优酷视频.py"
+        },
+		{
 			"key": "kf",
 			"name": "🐬咖啡体育直播.py[直播]",
 			"type": 3,
@@ -48,6 +54,12 @@
       "ext": "http://43.248.117.123:4680"
        },
 		{
+			"key": "ww",
+			"name": "🐬哇哇APP.py(关梯)[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/哇哇APP.py"
+		},
+		{
 			"key": "rb",
 			"name": "🐬热播APP.py[追剧]",
 			"type": 3,
@@ -64,6 +76,48 @@
 			"name": "🐬瓜子APP.py[追剧]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/瓜子APP.py"
+		},
+		{
+			"key": "QU",
+			"name": "🐬奇优影院.py[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/奇优影院.py"
+		},
+		{
+			"key": "UVOD",
+			"name": "🐬优视频.py[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/优视频.py"
+		},
+		{
+          "key": "MH",
+          "name": "🐬麻花影视.py[追剧]",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/麻花影视.py"
+        },
+		{
+          "key": "XH",
+          "name": "🐬星河影视.py[追剧]",
+          "type": 3,
+          "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/星河影视.py"
+        },
+		{
+			"key": "guanfeng",
+			"name": "🐬观风影视.py(关梯)[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/观风影视.py"
+		},
+		{
+			"key": "SZ",
+			"name": "🐬山楂影视.py(关梯)[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/山楂影视.py"
+		},
+		{
+			"key": "qmvm",
+			"name": "🐬七猫影视.py[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/七猫影视.py"
 		},
 		{
 			"key": "nmvm",
@@ -100,6 +154,12 @@
            "name": "🐬七味.py(关梯)[追剧]",
            "type": 3,
            "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/七味.py"
+        },
+		{
+           "key": "xyzkk",
+           "name": "🐬小鸭子看看.py 有🔞[追剧]",
+           "type": 3,
+           "api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/小鸭子看看.py"
         },
 		{
 			"key": "cjjh",
@@ -163,7 +223,7 @@
 		},
 		{
 			"key": "Pandalive",
-			"name": "🐬Pandalive直播.py｜🔞[成人直播]",
+			"name": "🐬韩国Pandalive直播.py｜🔞[成人直播]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/Pandalive直播.py"
 		},
@@ -240,6 +300,12 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/黑料不打烊.py"
 		},
 		{
+			"key": "xj",
+			"name": "🐬香蕉视频.py(关梯)｜🔞[成人]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/香蕉视频.py"
+		},
+		{
 			"key": "dj",
 			"name": "🐬妲己高清视频.py(关梯)｜🔞[成人]",
 			"type": 3,
@@ -280,6 +346,12 @@
 			"name": "🐬Xvideos.py｜🔞[成人]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/Xvideos.py"
+		},
+		{
+			"key": "Pornhub",
+			"name": "🐬Pornhub.py｜🔞[成人]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/Pornhub.py"
 		},
 		{
 			"key": "fullhd",
