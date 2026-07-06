@@ -126,6 +126,18 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/瓜子APP.py"
 		},
 		{
+			"key": "nnyy",
+			"name": "🐬努努影院.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/努努影院.py"
+		},
+		{
+			"key": "nvm",
+			"name": "🐬泥视频.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/泥视频.py"
+		},
+		{
 			"key": "QU",
 			"name": "🐬奇优影院.py",
 			"type": 3,
@@ -1787,25 +1799,13 @@
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"
-        },  
-		{
-            "name": "🐬海燕直播",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/haiyan.txt"
-        },  
+        },    
 		{
             "name": "🐬薄荷直播",
             "type": 0,
             "ua": "okhttp/5.3.2",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/bhmb.m3u"
-        },  
-        {
-            "name": "🐬湘西直播",
-            "type": 0,
-            "ua": "okhttp/5.3.2",
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/xiangxi.txt"
-        }, 
+        },   
 		{
             "name": "🐬全球直播",
             "type": 0,
@@ -1824,6 +1824,12 @@
             "ua": "okhttp/5.3.2",
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"
         },
+		{
+            "name": "🐬juli",
+            "type": 0,
+            "ua": "okhttp/5.3.2",
+            "url": "https://files.catbox.moe/h3mb5a.txt"
+        },	
 		{
             "name": "🐬小新TV",
             "type": 0,
@@ -1859,12 +1865,6 @@
             "type": 0,
             "ua": "okhttp",
             "url": "https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"
-        },
-	    {
-            "name": "🐬UnifiTV(马来节点)",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/unifi.txt"
         },
 	    {
             "name": "🐬裤佬TV",
