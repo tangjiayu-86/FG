@@ -44,7 +44,7 @@
         },
         {
            "key": "hajim-腾讯备",
-           "name": "🐬腾讯4K[追剧]",
+           "name": "🐬腾讯视频备用[追剧]",
            "type": 3,
            "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
            "searchable": 1,
@@ -109,9 +109,15 @@
         },
 		{
             "key":"youtube2",
-            "name":"🐬油管直播,py[其他]",
+            "name":"🐬油管,py[其他]",
 			"type": 3,
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/油管.py"
+		},
+		{
+            "key":"youtube3",
+            "name":"🐬油管直播,py[直播]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/油管直播.py"
 		},
 		{
         "key":"youtube",
@@ -120,6 +126,12 @@
         "api":"csp_yt",
         "homePage":"https://fgblh.github.io/uhuj.github.io/youtube.html"
         },
+		{
+			"key": "cbh",
+			"name": "🐬茶杯狐.py(关梯)[追剧]",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/茶杯狐.py"
+		},
 		{
             "key": "ppx",
             "name": "🐬皮皮虾.py[追剧]",
